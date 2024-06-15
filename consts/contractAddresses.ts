@@ -1,6 +1,6 @@
 export const editionDropContractAddress =
-  "0xB0eC9a37DD05F9DC4050f9E9347979673057d582";
+  "0xD531735dB0C95A22f0669990bA97C244e68f0B10";
 export const tokenContractAddress =
-  "0x00a09199c02a269f1019A2832b334A660CB20395";
+  "0xdce5726e3bc8e1f574416978279bb0ae62ab3c15";
 export const stakingContractAddress =
-  "0x334aDB0825bA13d6f03bfEA44A9C7764b741f589";
+  "0x54B75e4B70AdF4e8d47F8a22F830060A530a0bcd";
